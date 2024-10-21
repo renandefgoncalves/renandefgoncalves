@@ -18,10 +18,10 @@
 
 ### Tecnologias que estou estudando e/ou uso no meu dia a dia!
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge"/>
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>    
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&height=28px"/>
+    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&height=28px"/>
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge&height=28px"/>
+    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&height=28px"/>    
 </p><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandefgoncalves&size_weight=0.5&count_weight=0.5&theme=dracula" style="height:12em;"></br>
