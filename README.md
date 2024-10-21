@@ -17,7 +17,7 @@
 </p></br>
 
 ### Tecnologias que estou estudando e/ou uso no meu dia a dia!
-<div style="display: inline_block">
+<p align="left">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge"/>
@@ -28,26 +28,24 @@
     <!--<img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=microsoft-power_bi&logoColor=white"/>-->
     <!--<img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">-->
     <!--<img align="center" alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">-->
-</div><br>
+</p><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandefgoncalves&size_weight=0.5&count_weight=0.5&theme=dracula" style="height:12em;"></br>
 
 ### Principais bibliotecas que utilizo!
-<div style="display: inline_block"><br>
+<p align="left">
   <img align="center" alt="Pandas" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
   <img align="center" alt="Scikitlearn" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="center" alt="Seaborn" height="80" width="150" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
   <img align="center" alt="Matplotlib" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
   <img align="center" alt="Tensorflow" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>         
   <img align="center" alt="Keras" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />                   
-</div><br>
+</p><br>
     
 <div>
     <a href="https://github.com/renandefgoncalves">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;"/></p>
 </div>
-
-![Snake animation](https://github.com/renandefgoncalves/renandefgoncalves/blob/output/github-contribuition-grid-snake.svg)
 
 
 
