@@ -17,22 +17,17 @@
 </p></br>
 
 ### Tecnologias que estou estudando e/ou uso no meu dia a dia!
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
     <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge"/>
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge"/>    
-    <!--<img align="center" alt="Neo4j" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/><br/><br/>-->
-    <!--<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FFA500?style=for-the-badge"/>-->
-    <!--<img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>-->
-    <!--<img align="center" alt="Power BI" src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=microsoft-power_bi&logoColor=white"/>-->
-    <!--<img align="center" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">-->
-    <!--<img align="center" alt="Kibana" src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">-->
 </p><br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renandefgoncalves&size_weight=0.5&count_weight=0.5&theme=dracula" style="height:12em;"></br>
 
 ### Principais bibliotecas que utilizo!
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img align="center" alt="Pandas" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
   <img align="center" alt="Scikitlearn" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
   <img align="center" alt="Seaborn" height="80" width="150" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
@@ -46,6 +41,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;"/></p>
 </div>
-
-
-
