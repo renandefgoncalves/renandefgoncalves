@@ -24,7 +24,6 @@
 ### Tecnologias que estou estudando e/ou uso no meu dia a dia!
 <h3 align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&height=28px"/>
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&height=28px"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge&height=28px"/>
     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&height=28px"/>    
 </h3>
