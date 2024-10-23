@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://kaggle.com/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="renandefgoncalves" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="renandefgoncalves" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27956790/renan-de-fran%c3%a7a-gon%c3%a7alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://dev.to/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://instagram.com/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 </p>
