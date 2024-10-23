@@ -48,8 +48,8 @@
     
 <div>
     <a href="https://github.com/renandefgoncalves">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandefgoncalves&show_icons=true&theme=dracula" style="height:12em;"/></p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=renandefgoncalves&show_icons=true&theme=dracula" style="height:11em;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=renandefgoncalves&show_icons=true&theme=dracula" style="height:11em;"/>
 </div>
 
 <picture align="center">
