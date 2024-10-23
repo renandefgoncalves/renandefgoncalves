@@ -37,12 +37,12 @@
 
 ### Principais bibliotecas que utilizo!
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="Pandas" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-  <img align="center" alt="Scikitlearn" height="80" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="center" alt="Seaborn" height="80" width="150" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
-  <img align="center" alt="Matplotlib" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-  <img align="center" alt="Tensorflow" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>         
-  <img align="center" alt="Keras" height="100" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />                   
+  <img align="center" alt="Pandas" height="80" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
+  <img align="center" alt="Scikitlearn" height="80" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" alt="Seaborn" height="80" width="125" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
+  <img align="center" alt="Matplotlib" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+  <img align="center" alt="Tensorflow" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>         
+  <img align="center" alt="Keras" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />                   
 </p><br>
 
 #
