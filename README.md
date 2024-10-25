@@ -6,7 +6,7 @@
 - 🧑🏽‍💻 "Olá Mundo", meu nome é Renan e sou Cientista de Dados em busca de conhecimento, 🖖🏽 Vida longa e próspera.
 - 🌱 Atualmente cursando Inteligência Artificial na FIAP
 - 🔭 Estou em busca da minha primeira oportunidade de emprego na área. Meu sonho é um dia trabalhar com IA e Machine Learning.
-- 🧠 "O Ser humano deveria questionar menos a ética da Inteligência Atificial e questionar mais a ética do ser humano" - Juliano Kimura
+- 🧠 "O Ser humano deveria questionar menos a ética da Inteligência Artificial e questionar mais a ética do ser humano" - Juliano Kimura
 
 #
 
