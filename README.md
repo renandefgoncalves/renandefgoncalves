@@ -32,12 +32,11 @@
 #
 
 ### Principais bibliotecas que utilizo!
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="Seaborn" height="120" width="120" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"/>
-  <img align="center" alt="Scikitlearn" height="120" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="center" alt="Matplotlib" height="170" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/> 
-  <img align="center" alt="Tensorflow" height="170" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>
-</p><br>
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+</p>
 
 #
     
