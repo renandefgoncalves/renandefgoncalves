@@ -17,15 +17,14 @@
 <a href="https://linkedin.com/in/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://kaggle.com/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27956790/renan-de-fran%c3%a7a-gon%c3%a7alves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="renandefgoncalves" height="30" width="40" /></a>
-<a href="https://dev.to/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="renandefgoncalves" height="30" width="40" /></a>
+<a href="https://dev.to/renandefgoncalves" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="renandefgoncalves" height="30" width="40" /></a>
 <a href="https://instagram.com/renandefgoncalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="renandefgoncalves" height="30" width="40" /></a>
 </p>
 
 ### Tecnologias que estou estudando e/ou uso no meu dia a dia!
 <h3 align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&height=28px"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge&height=28px"/>
-    <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&height=28px"/>    
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00718B?style=for-the-badge&height=28px"/>   
 </h3>
 
 #
@@ -36,12 +35,10 @@
 
 ### Principais bibliotecas que utilizo!
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img align="center" alt="Pandas" height="80" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"/>
-  <img align="center" alt="Scikitlearn" height="80" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
-  <img align="center" alt="Seaborn" height="80" width="125" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/> 
-  <img align="center" alt="Matplotlib" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
-  <img align="center" alt="Tensorflow" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>         
-  <img align="center" alt="Keras" height="100" width="125" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />                   
+  <img align="center" alt="Seaborn" height="120" width="120" src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png"/>
+  <img align="center" alt="Scikitlearn" height="120" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" alt="Matplotlib" height="170" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/> 
+  <img align="center" alt="Tensorflow" height="170" width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"/>
 </p><br>
 
 #
