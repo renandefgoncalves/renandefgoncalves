@@ -3,10 +3,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Renan+de+França+Gonçalves;"/>
 </h1>
 
-🧑🏽‍💻 "Olá, Mundo!" Meu nome é Renan e sou um entusiasta de Análise de Dados, sempre em busca de conhecimento. 🖖🏽 Vida longa e próspera!
-🌱 Atualmente, estou cursando Inteligência Artificial na FIAP.
-🔭 Busco minha primeira oportunidade na área, com o sonho de trabalhar com IA e Machine Learning.
-🧠 "O ser humano deveria questionar menos a ética da Inteligência Artificial e questionar mais a ética do ser humano." – Juliano Kimura
+🧑🏽‍💻  **"Olá, Mundo!"** Meu nome é Renan e sou um entusiasta em Análise de Dados, sempre em busca de conhecimento.  
+
+🌱  Atualmente, estou cursando **Inteligência Artificial na FIAP**.  
+
+🔭  Busco minha primeira oportunidade na área, com o sonho de trabalhar com **IA e Machine Learning**.  
+
+🧠  *"O ser humano deveria questionar menos a ética da Inteligência Artificial e questionar mais a ética do ser humano."* – Juliano Kimura  
+
+
 
 #
 
